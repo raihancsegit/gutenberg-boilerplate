@@ -6,7 +6,7 @@
  * Requires PHP:      7.4
  * Version:           1.0.0
  * Author:            Raihan Islam
- * Author URI:        https://makegutenblock.com
+ * Author URI:        https://raihan.website
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain:       boilerplate
